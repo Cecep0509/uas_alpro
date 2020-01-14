@@ -30,3 +30,13 @@ buat baris baru atau endline
 i++ atau i + 1
 kembali ke looping i dan lakukan sampai nilai i=n terpenuhi
 ```
+ 
+Flowchart
+ 
+![Flowchart](https://raw.githubusercontent.com/Cecep0509/uas_alpro/master/Screenshot/flowchart.png)
+
+
+Output
+ 
+![Output1](https://raw.githubusercontent.com/Cecep0509/uas_alpro/master/Screenshot/Output1.PNG)
+![Output2](https://raw.githubusercontent.com/Cecep0509/uas_alpro/master/Screenshot/Output2.PNG)
